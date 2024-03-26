@@ -1,0 +1,6 @@
+hostname,IP
+server-0001.example.com,192.168.2.2
+Network,192.168.5.4
+server-002.example.com,192.168.3.2
+server-003.example.com,192.168.12.34
+server-004.example.com,192.168.98.52
